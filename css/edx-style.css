@@ -1,0 +1,24 @@
+body {
+  color: white;
+  background-color: #800000;
+}
+
+.container {
+  color: black;
+  background-color: white;
+  max-width: 1000px;  /* TODO: Change to breakpoint in Bootstrap! */
+  margin: 0 auto;
+  border-radius: 20px;
+  padding: 0 20px;
+}
+
+.panel-body>ul {
+  list-style: none;
+  /*list-style-position: outside;*/
+}
+
+footer {
+  border-top: solid 1px gray;
+  text-align: center;
+  font-size: .8em;
+}
