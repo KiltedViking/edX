@@ -1,10 +1,10 @@
 # KiltedViking/edX
 
-This repository contains my solutions to assignments on edX courses below.
+This repository contains my solutions to assignments and projects on edX courses below.
 
 * CSS Introduction
 
-View at https://kiltedviking.github.io/edX/.
+Browse solution's pages at https://kiltedviking.github.io/edX/.
 
 Björn G. D. Persson 
 (KiltedViking)
